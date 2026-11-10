@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+config.py
+rover_log.csv
+arm_poses.json
+*.hex
+*.elf
+.DS_Store
+Thumbs.db
