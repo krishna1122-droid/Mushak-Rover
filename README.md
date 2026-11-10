@@ -4,7 +4,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) ![Arduino](https://img.shields.io/badge/Arduino-Uno%20%2B%20ESP8266-blue.svg) ![Python](https://img.shields.io/badge/Python-3.10%2B-yellow.svg)
 
-**Maker Challenge 2026** · Krishna and Digvij · Carmel PU College, Modankap · Team Krishna & Digvij · Documentation link deadline: 10 November 2026 · Demo: 15 November 2026 at CFAL Campus, Akashbhavan, Mangalore
+**Maker Challenge 2026** · Krishna, Akshatha and Digvij · Carmel PU College, Modankap · Team Krishna, Akshatha and Digvij · Documentation link deadline: 10 November 2026 · Demo: 15 November 2026 at CFAL Campus, Akashbhavan, Mangalore
 
 Demo video: [mushak-rover-demo.mp4](media/videos/mushak-rover-demo.mp4).
 
@@ -130,8 +130,8 @@ Start with [build process](docs/build_process.md), review [wiring](docs/wiring.m
 
 ## Credits
 
-Project authors: Krishna and Digvij, Carmel PU College, Modankap. Synopsis and source files were supplied by the project team.
+Project authors: Krishna , Akshatha and Digvij, Carmel PU College, Modankap. Synopsis and source files were supplied by the project team.
 
 ## Licence
 
-MIT License. Copyright (c) 2026 Krishna and Digvij. See [LICENSE](LICENSE).
+MIT License. Copyright (c) 2026 Krishna Akshatha and Digvij. See [LICENSE](LICENSE).
