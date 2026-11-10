@@ -1,0 +1,4 @@
+Flask
+opencv-python
+ultralytics
+# follow_me.py is project code but was not supplied; its additional dependencies are unknown.
