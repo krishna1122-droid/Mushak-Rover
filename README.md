@@ -6,7 +6,7 @@
 
 **Maker Challenge 2026** · Krishna and Digvij · Carmel PU College, Modankap · Team Krishna & Digvij · Documentation link deadline: 10 November 2026 · Demo: 15 November 2026 at CFAL Campus, Akashbhavan, Mangalore
 
-Demo video: [mushak-rover-demo.mp4](media/videos/mushak-rover-demo.mp4) (provided video; the README does not assert details not verified in the clip).
+Demo video: [mushak-rover-demo.mp4](media/videos/mushak-rover-demo.mp4).
 
 ## Contents
 

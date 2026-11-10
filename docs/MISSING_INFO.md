@@ -4,6 +4,7 @@ The following was not present in the supplied files or could not be verified fro
 
 - TODO: exact chassis dimensions/materials, motor count/model, battery type/voltage, wiring/connectors, fasteners, tools, and mechanical assembly photos.
 - TODO: exact Uno/ESP8266/ESP32-CAM board models, firmware core/library versions, and programming instructions specific to the boards.
+- TODO: supported Python version range and pinned versions for the Flask, OpenCV, and Ultralytics dependencies.
 - TODO: servo make/model, rated voltage/current/torque, arm joint map, safe physical angle limits, and exact 6 V supply/fuse/capacitor ratings.
 - TODO: whether the rover control-arm servos and the standalone potentiometer controller are alternate setups or how the wiring is physically switched.
 - TODO: local Wi-Fi SSID/password, ESP8266 IP address, camera stream URL/IP, and app login credentials. Keep actual values private and local; never commit them.
